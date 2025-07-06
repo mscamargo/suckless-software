@@ -1,0 +1,10 @@
+# Build artifacts
+*.o
+dwm
+
+# Backup files
+*~
+*.swp
+*.swo
+.*.swp
+.*.swo

@@ -1,0 +1,33 @@
+# Build artifacts
+*.o
+
+# Executables
+dmenu/dmenu
+dmenu/dmenu_path
+dmenu/dmenu_run
+dmenu/stest
+dwm/dwm
+st/st
+surf/surf
+surf/webext-surf.so
+
+# Backup files
+*~
+*.swp
+*.swo
+.*.swp
+.*.swo
+
+# Editor temporary files
+.DS_Store
+*.tmp
+*.bak
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Generated documentation
+*.out 
